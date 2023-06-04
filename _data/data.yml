@@ -123,11 +123,11 @@ projects:
         tagline: "This is the software to secure things, like photos, web urls, ... using SAT Token as security device"
 
       - title: Filza File Manager
-        link: "#"
+        link: "https://www.tigisoftware.com/default/?page_id=78"
         tagline: "This is the file manager, music library manager for jailbroken iOS device"
 
       - title: Apps Manager
-        link: "#"
+        link: "https://www.tigisoftware.com/default/?page_id=259"
         tagline: "This app can backup/restore/wipe iOS app, useful for iOS users to quickly backup and restore apps"
 
       - title: iOS call recorder
