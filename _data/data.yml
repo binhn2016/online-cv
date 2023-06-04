@@ -53,7 +53,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I start my career as Symbian Developer and Reverse Engineering. Then I become iOS Developer util today, while using my Reverse Engineering skill to support my work. I can decrypt and analyze any AppStore app to find out the things I need. I can also develop native Mac OS X app, native Windows app and can manage Linux server, manage DNS...
+      I start my career as Symbian Developer and Reverse Engineering. Then I become iOS Developer util today, while using my Reverse Engineering skill to support my work. I can decrypt and analyze any AppStore app to find out the things I need. I can also develop native Mac OS X app, native Windows app and can manage Linux server, manage DNS, install and optimize mariadb, nginx, php.
 education:
     title: Education
     info:
@@ -61,142 +61,107 @@ education:
         university: University of Science (HCMC)
         time: 2008 - 2012
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+          Specialize: Infomation Technology major in Infomation system.
             - Bullet point
             - Bullet point
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Lead developer and Senior iOS developer
+        time: 2014 - now
+        company: TIGI Software
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
+          While working, I used my free time to develop iOS apps for jailbroken devices. Filza File Manager and Apps Manager, with help from my team. Util 2023, Filza File Manager has total 2.3m users and Apps manager has 323k users (50k paid users)
             - Bullet point
             - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Senior iOS Developer (remotely)
+        time: 2019 - 2023
+        company: Upper Hand Software LLC, USA
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
+          Secure VoIP and messaging app for iOS. Build custom extension for ejabberd, Push notification and VoIP notification server for iOS devices
             - Bullet point
             - Bullet point
-      - role: UI Developer
+      - role: Senior iOS Developer (remotely)
+        time: 2014 - 2019
+        company: Killer Mobile Software LLC, USA
+        details: |
+          iOS developer. I'm main iOS developer of all projects
+            - Bullet point
+            - Bullet point
+      - role: Senior iOS Developer (remotely)
         time: 2012 - 2014
-        company: Amazon, London
+        company: Secure Access Technologies, Menlo Park, CA, USA
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
+          iOS developer. I'm main developer of SAT Token and Mobile Desktop, using Bluetooth LE (4.0) to secure iOS app
+            - Bullet point
+            - Bullet point
+      - role: Junior Software Engineer
+        time: 2011 - 2012
+        company: Planet, Ho Chi Minh City, Viet Nam
+        details: |
+          Becomes iOS developer, while using my reverse engineering skill to support the project
+            - Bullet point
+            - Bullet point
+      - role: Symbian Developer
+        time: 2010 - 2011
+        company: Planet, Ho Chi Minh City, Viet Nam
+        details: |
+          Software developer for Symbian devices, and reverse engineering (symbian and Windows app)
             - Bullet point
             - Bullet point
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Here is list of my projects. Some projects I can't mention publicly
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+      - title: SAT Token
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "This is the software token, as replacement for hardware token, using Bluetooth 4.0 LE, used to authenticate Mac, Windows, iOS app"
 
-      - title: Tempo
+      - title: Mobile Desktop
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "This is the software to secure things, like photos, web urls, ... using SAT Token as security device"
 
-      - title: Atom
+      - title: Filza File Manager
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "This is the file manager, music library manager for jailbroken iOS device"
 
-      - title: Delta
+      - title: Apps Manager
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "This app can backup/restore/wipe iOS app, useful for iOS users to quickly backup and restore apps"
 
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
+      - title: iOS call recorder
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
+        tagline: "This app is for jailbroken devices, can record the phone calls and save it to mp3 files"
+    
+      - title: Mac OS X VoIP call recorder
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        tagline: "This app is for mac devices, can record the VoIP calls of Telegram and Skype, and save it to mp3 files"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Objective C & Swift & C & C++
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: C# & Windows API
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Reverse Engineering (iOS, Mac, Windows)
+        level: 90%
+
+      - name: Linux sysadmin
+        level: 50%
+
+      - name: PHP, Erlang, Python
+        level: 65%
+        
+      - name: Flutter
+        level: 75%
+
+      - name: Affinity Designer & Photoshop
+        level: 80%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
