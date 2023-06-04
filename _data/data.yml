@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: satashi2009@gmail.com
     phone: +(84) 973 333 846
-    timezone: Vietnam/Ho Chi Minh City Timezone
+    timezone: Vietnam/HCMC Timezone
     citizenship:
     website: tigisoftware.com #do not add http://
     linkedin: tbinhn
@@ -47,18 +47,13 @@ sidebar:
         - item: Travel
           link:
 
-        - item: Cooking
+        - item: Learning new techs
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I start my career as Symbian Developer and Reverse Engineering. Then I become iOS Developer util today, while using my Reverse Engineering skill to support my work. I can decrypt and analyze any AppStore app to find out the things I need. I can also develop native Mac OS X app, native Windows app and can manage Linux server, manage DNS...
 education:
     title: Education
     info:
