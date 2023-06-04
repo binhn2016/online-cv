@@ -53,7 +53,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I started my career as a Symbian developer and reverse engineer. Then I developed software for iOS util today while using my reverse engineering skill to support my work. I can decrypt and analyze any App Store app to find out what I need. I can also develop native Mac OS X apps and native Windows apps, manage Linux servers, manage DNS, install and optimize MariaDB, nginx, and PHP. I have not only developed software for iOS but also software for Mac OS X and Windows, made bug fixes, and added new features to existing software.
+      I started my career as a Symbian developer and reverse engineer. Then I developed software for iOS util today while using my reverse engineering skill to support my work. I can decrypt and analyze any App Store app to find out what I need. I have not only developed software for iOS but also developed software for Mac OS X and Windows, made bug fixes, and added new features to existing software. I also have skills to install and manage Linux server (php, nginx, mysql, manage DNS, install LetsEncrypt cert ...)
 education:
     title: Education
     info:
