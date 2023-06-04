@@ -23,6 +23,7 @@ sidebar:
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
+    skype: winds.tome
     twitter: '@tigisoftware'
     stack-overflow: 6889892/satashi-zero
     codewars:
@@ -142,10 +143,10 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Objective C & Swift & C & C++
-        level: 98%
+      - name: Objective C & Swift & C
+        level: 99%
 
-      - name: C# & Windows API
+      - name: C++ & C# & Windows API
         level: 85%
 
       - name: Reverse Engineering (iOS, Mac, Windows)
