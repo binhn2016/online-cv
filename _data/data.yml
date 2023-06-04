@@ -62,8 +62,6 @@ education:
         time: 2008 - 2012
         details: |
           Specialize: Infomation Technology major in Infomation system.
-            - Bullet point
-            - Bullet point
 experiences:
     title: Experiences
     info:
@@ -72,43 +70,31 @@ experiences:
         company: TIGI Software
         details: |
           While working, I used my free time to develop iOS apps for jailbroken devices. Filza File Manager and Apps Manager, with help from my team. Util 2023, Filza File Manager has total 2.3m users and Apps manager has 323k users (50k paid users)
-            - Bullet point
-            - Bullet point
       - role: Senior iOS Developer (remotely)
         time: 2019 - 2023
         company: Upper Hand Software LLC, USA
         details: |
           Secure VoIP and messaging app for iOS. Build custom extension for ejabberd, Push notification and VoIP notification server for iOS devices
-            - Bullet point
-            - Bullet point
       - role: Senior iOS Developer (remotely)
         time: 2014 - 2019
         company: Killer Mobile Software LLC, USA
         details: |
           iOS developer. I'm main iOS developer of all projects
-            - Bullet point
-            - Bullet point
       - role: Senior iOS Developer (remotely)
         time: 2012 - 2014
         company: Secure Access Technologies, Menlo Park, CA, USA
         details: |
           iOS developer. I'm main developer of SAT Token and Mobile Desktop, using Bluetooth LE (4.0) to secure iOS app
-            - Bullet point
-            - Bullet point
       - role: Junior Software Engineer
         time: 2011 - 2012
         company: Planet, Ho Chi Minh City, Viet Nam
         details: |
           Becomes iOS developer, while using my reverse engineering skill to support the project
-            - Bullet point
-            - Bullet point
       - role: Symbian Developer
         time: 2010 - 2011
         company: Planet, Ho Chi Minh City, Viet Nam
         details: |
           Software developer for Symbian devices, and reverse engineering (symbian and Windows app)
-            - Bullet point
-            - Bullet point
 projects:
     title: Projects
     intro: >
